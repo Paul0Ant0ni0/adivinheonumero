@@ -32,7 +32,12 @@ input[type=text]{
 
 }
 
+label{
+    margin-bottom: 10px;
+}
+
 #btn{
+    margin-top: 10px;
     width: 12.7rem;
     background: #69E582;
     border: 2px solid #7802AF;
