@@ -11,9 +11,9 @@ function gerar(){
             alert("Acertou")
             document.getElementById("entrada").value = ''
         }else{
-            alert("Errou #1F613" )
+            alert(`Errou. Valor certo: ${num2}!` )
             document.getElementById("entrada").value = ''
-            
+
         }
        
     }else{
